@@ -1,0 +1,4 @@
+starting mongo: brew services start mongodb-community@5.0
+stopping mongo: brew services stop mongodb-community@5.0
+
+connecting and using mongo: mongosh
